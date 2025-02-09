@@ -1,8 +1,18 @@
-# React + Vite
+# Assembly: Endgame
+A fun and interactive word-guessing game where players try to prevent the programming world from falling into Assembly! Built with React, this game challenges players to guess a word in under 8 attempts.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 🎮 Demo
+Check out the live version: [Assembly-Endgame](https://assembly-game-beryl.vercel.app/)
 
-Currently, two official plugins are available:
+## 🚀 Features
+- Interactive word-guessing game
+- Tracks guessed letters and incorrect attempts
+- Dynamic UI with visually appealing effects
+- Accessibility features for screen readers
+- Fully responsive design
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠 Tech Stack
+- React 
+- Tailwind CSS 
+
+
